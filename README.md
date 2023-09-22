@@ -15,7 +15,7 @@ Jenkins with AWS ECR pipeline
 11. chmod 777 /var/run/docker.sock
 
 
-## Install Jenkins
+### Install Jenkins
 
 https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
 
